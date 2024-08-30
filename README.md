@@ -1,2 +1,2 @@
 # database
-Important resouces on database management systems 
+Important resources on database management systems 
